@@ -1,0 +1,29 @@
+# ===== C++ =====
+*.out
+*.exe
+*.o
+*.obj
+*.gch
+
+# ===== Java =====
+*.class
+*.jar
+*.log
+*.iml
+.idea/
+*.project
+*.classpath
+*.settings/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+.env/
+.venv/
+
+# ===== General =====
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
